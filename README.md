@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhat</h1>
-<h3 align="center">I'm a Frontend Developer</h3>
+<h3 align="center">I'm a Frontend Developer and Student</h3>
 
+- 🌱 I’m currently learning **Backend development**
 
 <h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/serhat-mete-%C3%A7etin-27853b228/"> Linkedin</a></h3>
 <p align="left">
